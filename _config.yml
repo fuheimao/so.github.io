@@ -1,5 +1,1 @@
 theme: jekyll-theme-cayman
-git config --system core.quotepath false
-git config --global gui.encoding gbk
-git config --global i18n.commitencoding gbk
-git config --global i18n.logoutputencoding gbk
